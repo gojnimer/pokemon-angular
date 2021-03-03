@@ -19,7 +19,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, './coverage/notes-conversor'),
+      dir: require('path').join(__dirname, './coverage/pokemon-project'),
       subdir: '.',
       reporters: [
         { type: 'html' },

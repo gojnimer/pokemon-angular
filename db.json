@@ -1,0 +1,32 @@
+{
+  "pokemon": [
+    {
+      "name": "ivysaur",
+      "id": 1
+    },
+    {
+      "name": "charmeleon",
+      "id": 6
+    },
+    {
+      "name": "butterfree",
+      "id": 9
+    },
+    {
+      "name": "rattata",
+      "id": 10
+    },
+    {
+      "name": "pidgeot",
+      "id": 11
+    },
+    {
+      "name": "beedrill",
+      "id": 12
+    },
+    {
+      "name": "caterpie",
+      "id": 13
+    }
+  ]
+}

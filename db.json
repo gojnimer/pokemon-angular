@@ -5,16 +5,8 @@
       "id": 1
     },
     {
-      "name": "charmeleon",
-      "id": 6
-    },
-    {
       "name": "butterfree",
       "id": 9
-    },
-    {
-      "name": "rattata",
-      "id": 10
     },
     {
       "name": "pidgeot",
@@ -27,6 +19,18 @@
     {
       "name": "caterpie",
       "id": 13
+    },
+    {
+      "name": "venusaur",
+      "id": 14
+    },
+    {
+      "name": "charmeleon",
+      "id": 15
+    },
+    {
+      "name": "squirtle",
+      "id": 16
     }
   ]
 }
